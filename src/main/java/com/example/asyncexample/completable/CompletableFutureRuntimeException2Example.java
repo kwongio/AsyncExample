@@ -1,5 +1,4 @@
 package com.example.asyncexample.completable;
-
 import java.util.concurrent.CompletableFuture;
 import java.util.concurrent.CompletionException;
 import java.util.concurrent.ExecutionException;
@@ -39,3 +38,4 @@ public class CompletableFutureRuntimeException2Example {
         }
     }
 }
+
